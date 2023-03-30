@@ -190,18 +190,18 @@ Also, apply and implement the following demos/exercises.
 
 Understanding and learning the disconnected Tools and Processes, the connected Tools and Processes, what is the difference between them, and how Azure DevOps is a complete End-to-End toolchain that covers the entire development lifecycle.
 
-Also, understand what are the main services of Azure DevOps, and how DevOps is an End-to-End Process that covers all stages (Plan, Develop, Release, and Monitor).
+Also, understand what are the main services on Azure DevOps and how DevOps is an End-to-End Process that covers all stages (Plan, Develop, Build, Test, Package, Release, Configure and Monitor).
 
 ### Lesson 2: Azure DevOps Features and Capabilities
 
-Understanding and exploring Azure DevOps features and Capabilities, what are the different sub-platforms of Azure DevOps (Boards, Repos, Pipeline, etc)?
+Understanding and exploring Azure DevOps features and Capabilities, what are the different sub-platforms of Azure DevOps (Boards, Repos, Pipelines, Test Plans, Artifacts)
 
-Also, understand what is Azure Boards, Repos, Pipeline, Test Plans, and Artifacts, how to create an Azure organization and examine all its services, how to use the Azure DevOps API to create items, and how to generate projects using the Demo generator and explore them very well.
+Also, understand what is Azure Boards, Repos, Pipelines, Test Plans, and Artifacts, how to create an Azure organization and examine all its services, how to use the Azure DevOps API to create items and how to generate projects using the Demo generator and explore them very well.
 
 Also, apply and implement the following demos/exercises.
-- Examine Azure DevOps docs, create org and examine all the services.
+- Examine Azure DevOps docs, create an Azure organization and examine all it's services.
 - Using Azure DevOps API to create items through Postman and Azure DevOps CLI.
-- Use a Demo generator to generate several projects and examine them.
+- Use a Demo generator website to generate several projects on Azure devops and examine them also see how to adjust the organization policy settings to accept third party installation.
 
 ### Lesson 3: GitHub Features and Capabilities 
 
@@ -254,7 +254,7 @@ Also, understand the difference between Hand-typed text files and Generated text
 
 Also, apply and implement the following demos/exercises.
 - Install Git on Windows and Ubuntu.
-- Hand-typed text files Vs. Generated text files.
+- Hand-typed text files Vs. Generated text files (human readable source code vs minified source code).
 
 ### Lesson 3: Overview of Azure Repos
 
